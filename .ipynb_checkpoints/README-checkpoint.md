@@ -569,7 +569,7 @@ We welcome contributions! Please follow these steps:
 
 - Check existing issues in GitHub
 - Review documentation
-- Contact: mbgirish2004@gmail.com
+- Contact the development team
 
 ---
 
@@ -581,11 +581,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team & Contact
 
-### Project Maintainer
+### Project Maintainers
 
-- **Developer**: M B GIRISH
-- **Email**: mbgirish2004@gmail.com
-- **GitHub**: [@mbgirish](https://github.com/mbgirish)
+- **Data Science Team**: [Your Team Name]
+- **Email**: [your-email@company.com]
+- **Slack**: #retail-forecasting
 
 ### Acknowledgments
 
@@ -639,7 +639,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by M B GIRISH**
+**Built with ❤️ by the Data Science Team**
 
 [⬆ Back to Top](#-retail-sales-time-series-forecasting-system)
 
