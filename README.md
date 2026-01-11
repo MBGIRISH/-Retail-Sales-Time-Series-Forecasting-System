@@ -305,16 +305,16 @@ Access dashboard at `http://localhost:8501`
 The following screenshots demonstrate key outputs from the analysis and dashboard:
 
 ### Dashboard Overview
-![Sales Overview Dashboard](components/Screenshot%202026-01-12%20at%2012.55.10%20AM.png)
+![Sales Overview Dashboard](components/Screenshot 2026-01-12 at 12.55.10 AM.png)
 
 ### Seasonal Analysis
-![Seasonal Patterns](components/Screenshot%202026-01-12%20at%2012.55.29%20AM.png)
+![Seasonal Patterns](components/Screenshot 2026-01-12 at 12.55.29 AM.png)
 
 ### Model Performance
-![Model Comparison](components/Screenshot%202026-01-12%20at%2012.55.48%20AM.png)
+![Model Comparison](components/Screenshot 2026-01-12 at 12.55.48 AM.png)
 
 ### Forecast Visualization
-![Forecast Results](components/Screenshot%202026-01-12%20at%2012.56.16%20AM.png)
+![Forecast Results](components/Screenshot 2026-01-12 at 12.56.16 AM.png)
 
 ## References
 
@@ -322,7 +322,8 @@ The following screenshots demonstrate key outputs from the analysis and dashboar
 - Kaggle Store Sales - Time Series Forecasting Competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 **Papers & Methods**:
-- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Forecasting and Control. Holden-Day.
+- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Fom
+recasting and Control. Holden-Day.
 - Taylor, S. J., & Letham, B. (2018). Forecasting at Scale. The American Statistician, 72(1), 37-45. (Prophet)
 - Hyndman, R. J., & Athanasopoulos, G. (2021). Forecasting: principles and practice. OTexts. (ARIMA methodology)
 

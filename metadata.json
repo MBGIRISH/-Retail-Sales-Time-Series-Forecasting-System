@@ -1,7 +1,0 @@
-{
-  "name": "PredictiveRetail - Sales Forecasting System",
-  "description": "A high-end retail sales time series forecasting dashboard simulating a production-grade data science workflow, featuring interactive EDA, model comparisons, and AI-driven business insights.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
