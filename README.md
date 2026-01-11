@@ -191,10 +191,10 @@ Retail-Sales-Time-Series-Forecasting-System/
 ├── SETUP.md                           # Setup instructions
 │
 ├── components/                        # Dashboard components and screenshots
-│   ├── Screenshot 2026-01-12 at 12.55.10 AM.png
-│   ├── Screenshot 2026-01-12 at 12.55.29 AM.png
-│   ├── Screenshot 2026-01-12 at 12.55.48 AM.png
-│   ├── Screenshot 2026-01-12 at 12.56.16 AM.png
+│   ├── dashboard-overview.png
+│   ├── seasonal-analysis.png
+│   ├── model-performance.png
+│   ├── forecast-visualization.png
 │   └── Layout.tsx
 │
 ├── services/                          # Service layer
@@ -305,16 +305,16 @@ Access dashboard at `http://localhost:8501`
 The following screenshots demonstrate key outputs from the analysis and dashboard:
 
 ### Dashboard Overview
-![Sales Overview Dashboard](components/Screenshot 2026-01-12 at 12.55.10 AM.png)
+![Sales Overview Dashboard](components/dashboard-overview.png)
 
 ### Seasonal Analysis
-![Seasonal Patterns](components/Screenshot 2026-01-12 at 12.55.29 AM.png)
+![Seasonal Patterns](components/seasonal-analysis.png)
 
 ### Model Performance
-![Model Comparison](components/Screenshot 2026-01-12 at 12.55.48 AM.png)
+![Model Comparison](components/model-performance.png)
 
 ### Forecast Visualization
-![Forecast Results](components/Screenshot 2026-01-12 at 12.56.16 AM.png)
+![Forecast Results](components/forecast-visualization.png)
 
 ## References
 
